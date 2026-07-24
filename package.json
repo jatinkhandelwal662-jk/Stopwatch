@@ -1,8 +1,8 @@
 {
   "name": "stop-watch",
+  "homepage": "https://jatinkhandelwal662-jk.github.io/Stopwatch",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jatinkhandelwal662-jk.github.io/Stopwatch",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
